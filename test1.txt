@@ -1,0 +1,5 @@
+<?php
+//--test1.php
+echo "Chanakorn Hello World";
+
+?> 
